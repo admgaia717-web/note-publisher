@@ -101,3 +101,22 @@ note-publisher/
 ## License
 
 MIT
+
+---
+
+## なぜ作ったか
+
+「自問自記」——チャットでの疑問を即座に記事化し、公開することで自分を教育する仕組み。
+
+このプロジェクトは、[賈詡（kakuKT）](https://note.com/famous_prawn2009/n/nd133b9071418)の拡散モジュールとして生まれ、独立したCLIツールになりました。
+
+## スターをくれると嬉しい
+
+⭐ このリポジトリが役に立ったらスターをお願いします。
+
+[KeiTyのnote](https://note.com/famous_prawn2009) でAI・LLM・ローカルAIの記事を毎日公開しています。
+
+## 作者
+
+- **KeiTy (玉川勝史)** — [note](https://note.com/famous_prawn2009) / [X](https://x.com/keity717328) / [Threads](https://threads.net/@keity717328)
+- 奈良在住。AIエンスージアスト。3台のMacで10体のAIエージェント艦隊を運用中。
